@@ -1,0 +1,3 @@
+tasks.create("sayHello").doLast {
+    println "hello from plugin 1"
+}
