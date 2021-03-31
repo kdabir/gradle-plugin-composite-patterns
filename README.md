@@ -32,8 +32,7 @@ OS:           Mac OS X 10.16 x86_64
 
 1. `gradle -p direct-include/consumer sayHello`
 
-2. `gradle -p parent-composite :consumer:sayHello` (doesn't work)
+2. `gradle -p parent-composite :consumer:sayHello`
 
-3. `gradle -p sibling-composite/composite :consumer:sayHello` (doesn't work)
-
+3. `gradle -p sibling-composite/composite :consumer:sayHello`
 

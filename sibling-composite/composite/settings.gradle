@@ -1,4 +1,4 @@
 rootProject.name = 'composite'
 
-includeBuild('../consumer')
 includeBuild('../sample-plugin')
+includeBuild('../consumer')
