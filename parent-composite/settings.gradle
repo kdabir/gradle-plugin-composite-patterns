@@ -1,0 +1,4 @@
+rootProject.name = 'parent-composite'
+
+includeBuild('consumer')
+includeBuild('sample-plugin')

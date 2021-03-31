@@ -1,0 +1,3 @@
+plugins {
+	id "org.sample.hello-plugin" version "1.0.0."
+}
